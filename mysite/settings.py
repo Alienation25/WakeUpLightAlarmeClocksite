@@ -28,7 +28,7 @@ SECRET_KEY = 'cgpm^ieski!@%x%bu3uqnf79#2&fxp_od3-^+qygm1+*2o4!tf'
 DEBUG = True
 
 # ВАЖНО натройка хоста 
-ALLOWED_HOSTS =  ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS =  ['127.0.0.1', '.pythonanywhere.com',"2802429d7f86.ngrok.io"]
 
 
 # Application definition
